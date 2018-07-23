@@ -1,8 +1,8 @@
-## INSTALL
+## Install
 
 - `npm install`
 
-## EXECUTE
+## Running
 
 - `npm run start`
 - Access `http://localhost:8080/`
